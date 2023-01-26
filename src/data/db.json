@@ -4,6 +4,12 @@
       "id": 1,
       "title": "create new homepage banner",
       "details": "lorem ipsum",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "make marketing email",
+      "details": "lorem ipsum",
       "complete": false
     }
   ]
