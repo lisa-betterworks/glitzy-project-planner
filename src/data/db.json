@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "create new homepage banner",
-      "details": "lorem ipsum",
+      "details": "lorem ipsum one",
       "complete": true
     },
     {
@@ -13,16 +13,10 @@
       "complete": false
     },
     {
-      "title": "hello",
+      "title": "hello my dear",
       "details": "new project",
       "complete": false,
       "id": 3
-    },
-    {
-      "title": "hello",
-      "details": "new project",
-      "complete": false,
-      "id": 4
     },
     {
       "title": "ciao ",
